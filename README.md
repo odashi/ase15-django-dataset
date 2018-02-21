@@ -19,9 +19,10 @@ Please cite the following paper in your publication when you used this dataset:
 ```bibtex
 @inproceedings{oda2015ase:pseudogen1,
  author = {Oda, Yusuke and Fudaba, Hiroyuki and Neubig, Graham and Hata, Hideaki and Sakti, Sakriani and Toda, Tomoki and Nakamura, Satoshi},
- title = {Learning to Generate Pseudo-Code from Source Code Using Statistical Machine Translation},
+ title = {Learning to Generate Pseudo-code from Source Code Using Statistical Machine Translation},
  booktitle = {Proceedings of the 2015 30th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
  series = {ASE '15},
+ month = {November},
  year = {2015},
  isbn = {978-1-5090-0025-8},
  pages = {574--584},
@@ -30,6 +31,6 @@ Please cite the following paper in your publication when you used this dataset:
  doi = {10.1109/ASE.2015.36},
  acmid = {2916173},
  publisher = {IEEE Computer Society},
- address = {Washington, DC, USA}
+ address = {Lincoln, Nebraska, USA}
 }
 ```
