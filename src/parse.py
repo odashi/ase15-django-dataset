@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # usage:
-#   ./parse.py < python-code > ast-tree
+#   ./parse.py < python-code > ast
 
 import ast
 import sys

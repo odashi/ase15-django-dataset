@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 # usage:
-#   ./extract_words.py < ast-tree > leaf-nodes
+#   ./extract_words.py < ast > leaves
 
 import sys
 import re
